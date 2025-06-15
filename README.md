@@ -23,3 +23,9 @@ and analyzed:
 - Political affiliations and sympathies within the executive branch;
 - Some general social and economic indicators by EU countries (HD index, 
   unemployment rate, GDP per capita, etc.)
+
+-----------------------------------------------------------------------
+SOURCE
+1. Wikidata Query Service. Data retrieved on [retrieval date]
+  from https://query.wikidata.org/. Licensed under CC0 1.0 Universal
+  (Public Domain Dedication).
